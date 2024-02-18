@@ -1,0 +1,25 @@
+1. ekantipur --> artha, khelkud, <rajniti>, biswa, <samaj>
+2. nagarik --> artha. khelkud, rajniti, biswa, samaj, swasthya
+3. annapurna --> artha, khelkud, rajniti, biswa, samaj, swasthya
+4. gorkhapatra --> artha, khelkud, rajniti, <biswa>, <samaj>, swasthya
+5. image khabar --> artha, khelkud, rajniti, biswa, samaj, swasthya
+6. dc nepal --> artha, khelkud, rajniti, biswa, samaj, <swasthya>, desh pradesh
+7. E kagaz --> <artha>, <khelkud>, <rajniti>, <biswa>, <samaj>, <swasthya>
+8. ujyaalo nepal --> <artha>, <khelkud>, rajniti, <biswa>, samaj
+9. ratopati --> artha, khelkud, <rajniti>, biswa, <samaj>
+10. setopati --> <artha>, <khelkud>, <rajniti>, <biswa>, <samaj>
+11. online khabar --> <artha>, <khelkud>, <rajniti>, <biswa>, <samaj>
+12. nepal khabar --> artha, khelkud, rajniti, <biswa>, samaj
+
+1. artha 
+2. khel 
+3. rajniti
+4. biswa 
+5. samaj
+6. swasthya 
+7. desh pradesh
+8. prabhidhi 
+9. entertainment 
+10. sikshya
+11. prabhas
+12. bichar
