@@ -16,3 +16,6 @@ news_clean/*.txt
 news_clean/*.zip
 news_headline_generation/*.bin
 /.venv
+/models
+/tokenizer
+__pycache__
