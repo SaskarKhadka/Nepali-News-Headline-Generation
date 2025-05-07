@@ -3,6 +3,8 @@
 
 In this project I experiment with Attentive Seq2Seq and Transformer models to perform abstractive summarization of Nepali news articles
 
+Check out this <a href="report/Nepali News Headline Generation.pdf">document</a> to learn about this project
+
 ## Setup Instructions
 
 - Method 1
